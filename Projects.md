@@ -1,6 +1,6 @@
 ## **`Routime`**
 
-Imagine yourself cougut in a routine. This could be an exercise routine, work-rest cycles, etc. You want to do an activity `A` for `X0` minuetes and then rest for `Y0` minutes and repeat. After `N` repetitions, you wish to switch to activity `B` with `X1` and `Y1` actvity-rest cycles just like `A`. Sometimes, there is short rest between `A` and `B` other time none. This is the core of the `Routime`. It gives you the flexibility to time anything anyhow you want it.
+Imagine yourself cought in a routine. This could be an exercise routine, work-rest cycles, etc. You want to do an activity `A` for `X0` minuetes and then rest for `Y0` minutes and repeat. After `N` repetitions, you wish to switch to activity `B` with `X1` and `Y1` actvity-rest cycles just like `A`. Sometimes, there is short rest between `A` and `B` other time none. This is the core of the `Routime`. It gives you the flexibility to time anything anyhow you want it.
 
         1. Subroutines: these are smaller routines that are part of a bigger routine. Eg: Two sets of pushups during a workout routine.
 
@@ -49,7 +49,7 @@ Will the unborn generation ever see grandma's funeral pictures? How about here w
 
     6. Can people add info for others? for instance a dead relative who had a profile they were alive.
 
-## **`Multi languaguage translation:`**
+## **`Multi-languaguage translation:`**
 
 Using google translate, provide a website that allow translation of a word, sentence, paragraph, or entire passage to be translated into all supported languages at a go.
 
