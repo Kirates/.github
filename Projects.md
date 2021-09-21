@@ -1,3 +1,29 @@
+## **`Routime`**
+
+Imagine yourself cougut in a routine. This could be an exercise routine, work-rest cycles, etc. You want to do an activity `A` for `X0` minuetes and then rest for `Y0` minutes and repeat. After `N` repetitions, you wish to switch to activity `B` with `X1` and `Y1` actvity-rest cycles just like `A`. Sometimes, there is short rest between `A` and `B` other time none. This is the core of the `Routime`. It gives you the flexibility to time anything anyhow you want it.
+
+        1. Subroutines: these are smaller routines that are part of a bigger routine. Eg: Two sets of pushups during a workout routine.
+
+        2. Routine: This is the main activity going. Eg: A workout session.
+
+        3. You can choose if the rest period should be part of the total activity time or seperated. Eg: If you are doing pushups for 1min, do you prefer the 5sec breaks are within the one minute or 1min + plus 5sec break time, you call.
+
+        4. Each routine should have activity, activity time, break time, repetitions, and whether break is within the activity time.
+
+        5. The activity time for each routine could be a subroutine. A subroutine is a full routine on its own and has same properties as a normal routine, just been called under another routine.
+
+        6. Total time for  a routine, should be computer summing the time for all subroutines, activity times, and breaks together.
+
+        7. For monotonous routines, you can set the tone for the end of activity and start of rest period. And vice-versa.
+
+        8. If a routine has many subroutines, we should use voice anouncements to announce the start and end of on subroutine to the next.
+
+        9. Instructions: You can include written/voice instructions as to how the routine should be done. This can also be announce at the start.
+
+        10. Basically, you can make the app into a virtual coach announce your next activity and time you.
+
+        11. Research did not produce any exact matches in existence.
+
 ## **`RobustQuiz`**
 
 Google forms, microsoft forms, etc, all have some element of quizzing in them. However, when I looked at Gforms, it was adequate for making a full form experience.
