@@ -1,3 +1,8 @@
+## **`Spellchecking VS code extension`**
+Vs code is not always about code. sometimes you need to write json files and so on
+This extension if not already in existence should allow you to spell check the currently open file.
+
+
 ## **`Routime`**
 
 Imagine yourself cought in a routine. This could be an exercise routine, work-rest cycles, etc. You want to do an activity `A` for `X0` minuetes and then rest for `Y0` minutes and repeat. After `N` repetitions, you wish to switch to activity `B` with `X1` and `Y1` actvity-rest cycles just like `A`. Sometimes, there is short rest between `A` and `B` other time none. This is the core of the `Routime`. It gives you the flexibility to time anything anyhow you want it.
