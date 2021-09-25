@@ -1,3 +1,20 @@
+## **`Budget tracking app`**
+It seems like all the budgetting apps I can find are missing some feature. Why don't I create one the has all features to go with it. Use cashbook as a UI design guide
+        1. Cashbook uses the concept of books to seperate expenses. How about we use tags instead so that expense tagged with what it was
+        2. Dashboard: Cashbook misses a dashboard feature. Let's implement it.
+        3. Veiws: Use daily, weekly and monthly veiws to give users finer breakdown of their spending behavior
+        4. Projection: allow users to project how much they intend to spend overall and also in various books/tags/categories and track how well they are sticking to it.
+        5. Budget: allow users to allocate a budget at the start of every month and help monitor how well they are doing.
+        6. Notifications and reminders: Remind user at the times they usually make purchases to enter them 
+        7. Summaries: Summarize users' spendings across the day, week, month and year for them.
+        8. Contributions: Certain items are not used up in a single month. Help users set small contributions aside towards it every month so that they don't have to buy it at a go. For this they can set the money aside physically and use the app to track how much is set aside for each item.
+        9. Export to excel image and pdf feature
+        10. share a certain book in excel or image format
+        11. Budget progression and predictions
+        12. Help users determine when they are consistently overspending in a certain category and what the ideal amount to allocate for that category.
+        13. Inflow: while the user has a fixed budget they are spending allow them the enter inflows. For instance if they a bonus from work or cash gift from some where.
+        11. Group wallets? like cashbook?
+
 ## **`Spellchecking VS code extension`**
 Vs code is not always about code. sometimes you need to write json files and so on
 This extension if not already in existence should allow you to spell check the currently open file.
